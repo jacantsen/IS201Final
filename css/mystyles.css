@@ -1,0 +1,27 @@
+body{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    background:linear-gradient(white, black);
+    color: white;
+}
+a{
+    color: blue;
+}
+a:visited{
+    color: lightsteelblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    font-weight: normal;
+}
+/*class="masthead" style="background-image: url('images/newhome-bg.png')"*/
+img{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
